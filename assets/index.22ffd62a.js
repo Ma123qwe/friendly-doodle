@@ -1,0 +1,1 @@
+import{_ as o}from"./index.27bb2621.js";import{d as t,e as n,o as r,f as s,i as _}from"./vendor.ce825e00.js";const a=t({components:{},setup(){return{}}}),c={class:"home"};function p(d,i,f,m,u,v){const e=n("router-view");return r(),s("div",c,[_(e)])}var $=o(a,[["render",p],["__scopeId","data-v-faa15f4e"]]);export{$ as default};
